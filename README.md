@@ -2,6 +2,7 @@
 
 End-user apps in WSO2 Identity Server
 
+test
 ---
 |  Branch | Build Status | Travis CI Status |
 | :------------ |:------------- |:-------------
